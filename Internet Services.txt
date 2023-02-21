@@ -1,0 +1,19 @@
+Always Measure one-level deeper - https://cacm.acm.org/magazines/2018/7/229031-always-measure-one-level-deeper/pdf
+Improving performance on the Internet - https://cacm.acm.org/magazines/2009/2/19323-improving-performance-on-the-internet/pdf
+The Akamai network: a platform for high-performance internet applications - https://dl.acm.org/doi/10.1145/1842733.1842736
+
+What is a microservice ? - https://martinfowler.com/articles/microservices.html
+Implications of microservices for cloud systems - https://dl.acm.org/doi/10.1145/3297858.3304013
+
+Architecture of Open Source Applications - https://www.aosabook.org/en/index.html
+
+Google's Cluster Architecture - https://storage.googleapis.com/pub-tools-public-publication-data/pdf/908d5966b1fa946034e382e608999d51e70d5b22.pdf
+MapReduce: Dataprocessing on large clusters - https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf
+Scaling Memcache at Facebook - https://research.facebook.com/publications/scaling-memcache-at-facebook/
+Resilient Distributed Datasets: Fault-Tolerant Computing - https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf
+
+Cluster Orchestration (Birth of Containers) (Kubernetes) - https://cacm.acm.org/magazines/2016/5/201605-borg-omega-and-kubernetes/pdf
+Kubernetes Internals - https://www.youtube.com/watch?v=3KtEAa7_duA
+What are Containers made from ? - https://www.youtube.com/watch?v=sK5i-N34im8
+
+Xen and the Art of Virtualization - https://www.cl.cam.ac.uk/research/srg/netos/papers/2003-xensosp.pdf
